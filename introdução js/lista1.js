@@ -43,7 +43,7 @@ let valorA = prompt("Informe o valor de A: ");
 let valorB = prompt("Informe o valor de B: ");
 let valorC = prompt("Informe o valor de C: ");
 let coeficiente1;
-let coeficiente2
+let coeficiente2;
 
 let delta = (valorB * valorB) - 4 * valorA * valorC;
 
